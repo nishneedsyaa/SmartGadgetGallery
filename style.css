@@ -1,0 +1,7 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.product-card img {
+  height: 200px;
+  object-fit: cover;
+}
